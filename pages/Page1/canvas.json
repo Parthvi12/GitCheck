@@ -124,7 +124,7 @@
               "key": "exp1xrx5ym",
               "labelTextSize": "0.875rem",
               "isDeprecated": false,
-              "rightColumn": 21,
+              "rightColumn": 44,
               "widgetId": "9v35nbkodx",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
